@@ -33,3 +33,7 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# local working files (eval notes, Claude Code session state)
+/CONTENTSTACK_EVAL.md
+/.claude/
